@@ -5,6 +5,7 @@
 </head>
 <body>
 <a href="is_list.php">supplier</a>
+<a href="is_list.php">supplier</a>
 </body>
 </html>
 
